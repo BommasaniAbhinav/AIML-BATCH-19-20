@@ -6,3 +6,5 @@
 [lab-3(https://github.com/BommasaniAbhinav/AIML-BATCH-19-20/blob/main/AIML_ASSIGNMENT_3.ipynb)]
 
 [lab-5(https://github.com/BommasaniAbhinav/AIML-BATCH-19-20/blob/main/Assignment_5.ipynb)]
+
+[lab-6(https://github.com/BommasaniAbhinav/AIML-BATCH-19-20/blob/main/Assignmnent_6.ipynb)]
