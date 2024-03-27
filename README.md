@@ -8,3 +8,5 @@
 [lab-5(https://github.com/BommasaniAbhinav/AIML-BATCH-19-20/blob/main/Assignment_5.ipynb)]
 
 [lab-6(https://github.com/BommasaniAbhinav/AIML-BATCH-19-20/blob/main/Assignmnent_6.ipynb)]
+
+[lab-7(https://github.com/BommasaniAbhinav/AIML-BATCH-19-20/blob/main/Assignment_7.ipynb)]
