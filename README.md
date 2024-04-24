@@ -1,6 +1,8 @@
 # AIML-BATCH-19-20
 [lab-1(https://github.com/BommasaniAbhinav/AIML-BATCH-19-20/blob/main/Assignment1.ipynb)] 
 
+[lab-2(https://github.com/BommasaniAbhinav/AIML-BATCH-19-20/blob/main/Assignment2.ipynb)]
+
 [lab-4(https://github.com/BommasaniAbhinav/AIML-BATCH-19-20/blob/main/Assignment_4.ipynb)]
 
 [lab-3(https://github.com/BommasaniAbhinav/AIML-BATCH-19-20/blob/main/AIML_ASSIGNMENT_3.ipynb)]
